@@ -8,6 +8,7 @@ Actions use normal WoW targeting for gameplay intent. Roster is a server-owned l
 
 > **Requires the server-side module:** [PiotrZadka/TortoiseBots](https://github.com/PiotrZadka/TortoiseBots) (`modules/TortoiseBots`). The addon sends `.bot` transport commands, consumes structured `TBM:` responses, and keeps legacy command compatibility.
 
+
 ---
 
 ## Features
